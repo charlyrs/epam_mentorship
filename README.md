@@ -11,5 +11,8 @@
 * homework p2 https://drive.google.com/file/d/1-xo7dbaWvbZocOTW7aF_ZPX8jLStMehO/view?usp=sharing
 
 ### Week 3
-* seminar (question!) https://drive.google.com/file/d/1_47IipTPXBG4X6BnOpOFnTr2wSzgRc4x/view?usp=sharing
-* homework (in progress 2/3) https://drive.google.com/file/d/1c43TruDKWIKWL-bnsXLfeLOcqGpUi0xG/view?usp=sharing
+* seminar https://drive.google.com/file/d/1_47IipTPXBG4X6BnOpOFnTr2wSzgRc4x/view?usp=sharing
+* homework https://drive.google.com/file/d/1c43TruDKWIKWL-bnsXLfeLOcqGpUi0xG/view?usp=sharing
+
+### Week 3
+* homework https://drive.google.com/file/d/1e9qxXbqaP2USVQUR3AIIaXRsTuA4HkrJ/view?usp=sharing
