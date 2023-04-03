@@ -19,3 +19,6 @@
 
 ### Week 5
 * homework https://drive.google.com/file/d/17Ds1-Zpq3XMENT2d2fXNJtso8h_V1L1C/view?usp=sharing
+
+### Week 6
+* homework https://colab.research.google.com/drive/1dRl5DzM0F7d_gJiOGZZyLNKybvi6hjU6?usp=sharing
