@@ -1,0 +1,3 @@
+docker build . -t ner_image
+
+docker run -v D:/EPAM/docker_practice/data:/data --name ner_app --rm ner_image
